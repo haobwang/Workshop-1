@@ -8,6 +8,13 @@
   <img src="Gifs/demo.gif">
 </p>
 
+<p align="center">
+  <img src="https://github.com/COMP30019/Workshop-1/actions/workflows/main.yml/badge.svg" />
+  <a href="https://comp30019.github.io/Workshop-1/" alt="GH Pages">
+    <img src="https://img.shields.io/static/v1?label=Play%20Online&message=comp30019.github.io/Workshop-1/&color=blue&logo=unity" />
+  </a>
+</p>
+
 ## Introduction
 
 In this workshop you will be introduced to Unity, a powerful cross-platform game
